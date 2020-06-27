@@ -1,0 +1,16 @@
+{
+  "name": "babel-plugin-sre",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-plugin-tester": "^6.0.0",
+    "jest": "^24.1.0"
+  }
+}
