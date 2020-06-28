@@ -1,3 +1,3 @@
 ![Main](https://github.com/aboeglin/babel-plugin-sre/workflows/Main/badge.svg)
 
-# babel-plugin-sre
+# babel-plugin-snake-render-engine

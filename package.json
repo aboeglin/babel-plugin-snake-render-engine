@@ -1,8 +1,8 @@
 {
-  "name": "babel-plugin-sre",
-  "version": "1.0.0",
+  "name": "babel-plugin-snake-render-engine",
+  "version": "1.0.0-alpha-1",
   "description": "",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "jest"
   },
