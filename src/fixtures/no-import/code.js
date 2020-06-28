@@ -1,4 +1,3 @@
-import SRE from "snake-render-engine";
 const SomeNode = (props) => {};
 const MyNode = () => {};
 
