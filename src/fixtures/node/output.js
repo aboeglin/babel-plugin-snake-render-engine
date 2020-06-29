@@ -1,7 +1,9 @@
-import SRE from "snake-render-engine";
-const SomeNode = Node(props => {});
-const MyNode = Node(() => {});
+import SRE, { __Node__ } from "snake-render-engine";
+
+const SomeNode = __Node__(props => {});
+
+const MyNode = __Node__(() => {});
 
 const fn = () => {
-  const OtherNode = Node(() => {});
+  const OtherNode = __Node__(() => {});
 };
